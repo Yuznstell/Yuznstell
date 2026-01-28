@@ -2,21 +2,25 @@
 
 ### Data Scientist | AI Engineer | Full Stack Developer
 
-- 🌱 I'm currently learning **Advanced **Deep Learning** architectures for Computer Vision.**
+- 🌱 I'm currently learning
+- **Advanced **Deep Learning** architectures for Computer Vision.**
 
-- 👯 I'm looking to collaborate on ****AI & Data Science:** Python, TensorFlow, Pandas, MTCNN, Computer Vision.
+- 👯 I'm looking to collaborate on
+**AI & Data Science:** Python, TensorFlow, Pandas, MTCNN, Computer Vision.
 **Web Development:** HTML, CSS, JavaScript, Next.js, PWA.
 **Web & Mobile:** PWA Development.**
 
-- 💬 Ask me about **A graduate of the Computer Science program at the University of Lampung with experience in data processing, machine learning, and AI-based system development.**
+- 💬 Ask me about
+- **A graduate of the Computer Science program at the University of Lampung with experience in data processing, machine learning, and AI-based system development.**
 
-- 📫 How to reach me ****LinkedIn:** [linkedin.com/in/yudhanugraha](https://linkedin.com/in/yudhanugraha)**
+- ⚡ Fun fact
+- **Possesses work and organizational experience that supports strong analytical, collaborative, and communication skills.**
 
-- ⚡ Fun fact **Possesses work and organizational experience that supports strong analytical, collaborative, and communication skills.**
+- 👨‍💻 All of my projects are available at
+**[https://drive.google.com/file/d/1PpsrQPPZ0JprKHQSDlB4rzPcMQJgKSHI/view?usp=sharing](https://drive.google.com/file/d/1PpsrQPPZ0JprKHQSDlB4rzPcMQJgKSHI/view?usp=sharing)**
 
-- 👨‍💻 All of my projects are available at **[https://drive.google.com/file/d/1PpsrQPPZ0JprKHQSDlB4rzPcMQJgKSHI/view?usp=sharing](https://drive.google.com/file/d/1PpsrQPPZ0JprKHQSDlB4rzPcMQJgKSHI/view?usp=sharing)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1mkcDqevCiCqGPhE7eMGJ0Ttkw6HYKfMe/view?usp=sharing](https://drive.google.com/file/d/1mkcDqevCiCqGPhE7eMGJ0Ttkw6HYKfMe/view?usp=sharing)**
+- 📄 Know about my experiences
+**[https://drive.google.com/file/d/1mkcDqevCiCqGPhE7eMGJ0Ttkw6HYKfMe/view?usp=sharing](https://drive.google.com/file/d/1mkcDqevCiCqGPhE7eMGJ0Ttkw6HYKfMe/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
