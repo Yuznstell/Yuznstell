@@ -1,10 +1,6 @@
 # Hi 👋, I'm Yudha Nugraha
 
-### Data Science | Artificial Intellegence | Informatic Engineering
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yuznstell&label=Profile views&color=0e75b6&style=flat" alt="Yuznstell" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuznstell" alt="Yuznstell" /></a> </p>
+### Data Scientist | AI Engineer | Full Stack Developer
 
 - 🌱 I'm currently learning **Advanced **Deep Learning** architectures for Computer Vision.**
 
