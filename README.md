@@ -35,3 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuznstell&" alt="Yuznstell" /></p>
 
+
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Yuznstell&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
