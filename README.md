@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yudha Nugraha
+### Hi there, I'm Yudha Nugraha, S.T.
 
 ### Data Scientist | AI Engineer | Full Stack Developer
 
