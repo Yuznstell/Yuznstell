@@ -15,10 +15,7 @@
 **Possesses work and organizational experience that supports strong analytical, collaborative, and communication skills.**
 
 - 👨‍💻 All of my projects are available at
-**[https://drive.google.com/file/d/1PpsrQPPZ0JprKHQSDlB4rzPcMQJgKSHI/view?usp=sharing](https://drive.google.com/file/d/1PpsrQPPZ0JprKHQSDlB4rzPcMQJgKSHI/view?usp=sharing)**
-
-- 📄 Know about my experiences
-**[https://drive.google.com/file/d/1mkcDqevCiCqGPhE7eMGJ0Ttkw6HYKfMe/view?usp=sharing](https://drive.google.com/file/d/1mkcDqevCiCqGPhE7eMGJ0Ttkw6HYKfMe/view?usp=sharing)**
+[portofolio](https://yuznstell.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
