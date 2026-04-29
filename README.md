@@ -51,7 +51,7 @@ const engineer = {
 
 #### AI / Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,jupyter,sklearn" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv" />
 </p>
 <p align="center">
   <code>Python</code> <code>TensorFlow</code> <code>PyTorch</code> <code>OpenCV</code> <code>MTCNN</code> <code>SRGAN</code> <code>Scikit-learn</code> <code>Pandas</code> <code>NumPy</code> <code>Azure AI</code>
@@ -120,17 +120,6 @@ const engineer = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuznstell/Yuznstell/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yuznstell/Yuznstell/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-## 💬 Quote
-
-> **"I don't just write code to make computers work —**
-> **I build systems designed to solve problems, scale gracefully,**
-> **and still make sense six months later."**
-> — *Yudha Nugraha*
-
----
 
 ## 🌐 Connect With Me
 
