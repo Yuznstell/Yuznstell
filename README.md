@@ -58,40 +58,56 @@ Sensor-integrated Android applications for real-time aquaponics monitoring, HUD 
 
 **AI / Machine Learning**
 
-![Python](https://skillicons.dev/icons?i=py)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg)
+<p>
+  <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" />
+  <img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40" alt="Jupyter" />
+  <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-learn" />
+</p>
 
 `Python` `TensorFlow` `PyTorch` `OpenCV` `MTCNN` `SRGAN` `Scikit-learn` `Pandas` `NumPy` `Azure AI Services` `Azure OpenAI`
 
 **Frontend**
 
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+</p>
 
 `Next.js 14` `React` `TypeScript` `Tailwind CSS` `PWA` `Figma`
 
 **Backend & Database**
 
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="40" height="40" alt="Prisma" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
+</p>
 
 `Node.js` `Express.js` `PostgreSQL` `Prisma` `Firebase` `REST API` `Socket.IO` `JWT` `RBAC`
 
 **Infrastructure & Tools**
 
-![Docker](https://skillicons.dev/icons?i=docker)
-![Arduino](https://skillicons.dev/icons?i=arduino)
-![Illustrator](https://skillicons.dev/icons?i=illustrator)
-![C](https://skillicons.dev/icons?i=c)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40" alt="Arduino" />
+  <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=illustrator" width="40" height="40" alt="Illustrator" />
+  <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
+</p>
 
-`Docker` `Git` `Arduino` `Kotlin` `Blockchain (Ethereum)` `Adobe Illustrator`
+`Docker` `Git` `Arduino` `Flutter` `Kotlin` `Blockchain (Ethereum)` `Adobe Illustrator`
 
 ---
 
@@ -100,7 +116,7 @@ Sensor-integrated Android applications for real-time aquaponics monitoring, HUD 
 | Project | Stack | Description |
 |---|---|---|
 | [**AIKU**](https://yuznstell.vercel.app/projects/mm829qigoa34) | Next.js 14, Node.js, PostgreSQL, Socket.IO | Full-stack productivity platform with real-time chat, shared calendars, and rich-text notes |
-| [**MTCNN Face Recognition**](https://yuznstell.vercel.app/projects/face-recognition-mtcnn) | Python, TensorFlow, MTCNN | Real-time biometric identity verification system for student data management |
+| [**MTCNN Face Recognition**](https://yuznstell.vercel.app/projects/face-recognition-mtcnn) | Python, TensorFlow, MTCNN | Real-time biometric identity verification for student data management |
 | [**CCTV Super Resolution**](https://yuznstell.vercel.app/projects/cctv-super-resolution) | Python, SRGAN, CelebA | GAN-based image enhancement for low-quality surveillance footage |
 | [**Healing.ai**](https://yuznstell.vercel.app/projects/healing-ai) | ML, JavaScript, REST API | Tourism recommendation engine using collaborative filtering |
 | [**PWA PSPPI Unila**](https://yuznstell.vercel.app/projects/pwa-psppi-unila) | PWA, WordPress, Lighthouse | Offline-capable institutional web app with push notifications |
