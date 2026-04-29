@@ -71,20 +71,20 @@ const engineer = {
 
 #### Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
 </p>
 <p align="center">
-  <code>Node.js</code> <code>Express.js</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Firebase</code> <code>Socket.IO</code> <code>REST API</code> <code>JWT</code>
+  <code>Node.js</code> <code>Express.js</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Socket.IO</code> <code>REST API</code> <code>JWT</code>
 </p>
 
 <br>
 
 #### Infrastructure & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,arduino,flutter,kotlin,illustrator,c" />
+  <img src="https://skillicons.dev/icons?i=docker,git,arduino,illustrator,c" />
 </p>
 <p align="center">
-  <code>Docker</code> <code>Git</code> <code>Arduino</code> <code>Flutter</code> <code>Kotlin</code> <code>Ethereum</code> <code>Illustrator</code>
+  <code>Docker</code> <code>Git</code> <code>Arduino</code> <code>Illustrator</code>
 </p>
 
 ---
