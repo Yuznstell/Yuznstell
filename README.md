@@ -57,55 +57,22 @@ Sensor-integrated Android applications for real-time aquaponics monitoring, HUD 
 ## Tech Stack
 
 **AI / Machine Learning**
+![AI Stack](https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,jupyter,sklearn&perline=20)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" />
-  <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" />
-  <img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" />
-  <img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40" alt="Jupyter" />
-  <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-learn" />
-</p>
-
-`Python` `TensorFlow` `PyTorch` `OpenCV` `MTCNN` `SRGAN` `Scikit-learn` `Pandas` `NumPy` `Azure AI Services` `Azure OpenAI`
+`Python` `TensorFlow` `PyTorch` `OpenCV` `MTCNN` `SRGAN` `Scikit-learn` `Pandas` `NumPy` `Azure AI` `Azure OpenAI`
 
 **Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
-</p>
+![Frontend Stack](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css,figma&perline=20)
 
 `Next.js 14` `React` `TypeScript` `Tailwind CSS` `PWA` `Figma`
 
 **Backend & Database**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=prisma" width="40" height="40" alt="Prisma" />
-  <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
-</p>
+![Backend Stack](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,firebase&perline=20)
 
 `Node.js` `Express.js` `PostgreSQL` `Prisma` `Firebase` `REST API` `Socket.IO` `JWT` `RBAC`
 
 **Infrastructure & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40" alt="Arduino" />
-  <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
-  <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="Kotlin" />
-  <img src="https://skillicons.dev/icons?i=illustrator" width="40" height="40" alt="Illustrator" />
-  <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
-</p>
+![Tools Stack](https://skillicons.dev/icons?i=docker,git,arduino,flutter,kotlin,illustrator,c&perline=20)
 
 `Docker` `Git` `Arduino` `Flutter` `Kotlin` `Blockchain (Ethereum)` `Adobe Illustrator`
 
