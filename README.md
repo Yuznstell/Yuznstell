@@ -1,7 +1,7 @@
 <div align="center">
 
 # Yudha Nugraha, S.T.
-### Full-Stack Developer · AI Engineer · Data Scientist
+### Data Science | Artificial Intelligence | Informatics Engineering
 
 *Crafting intelligent systems and scalable platforms.*
 *From multi-tenant architectures to production ML pipelines — I build things that think and things that scale.*
